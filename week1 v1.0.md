@@ -7,8 +7,7 @@
 ------------------
 
 ### 1.1 欢迎
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
- $$n==x$$
+ <a href="https://www.codecogs.com/eqnedit.php?latex=${{h}_{\theta&space;}}\left(&space;x&space;\right)=g\left(&space;{{\theta&space;}^{T}}X&space;\right)$sd" target="_blank"><img src="https://latex.codecogs.com/gif.latex?${{h}_{\theta&space;}}\left(&space;x&space;\right)=g\left(&space;{{\theta&space;}^{T}}X&space;\right)$sd" title="${{h}_{\theta }}\left( x \right)=g\left( {{\theta }^{T}}X \right)$sd" /></a>
 
 参考视频: 1 - 1 - Welcome (7 min).mkv
 
