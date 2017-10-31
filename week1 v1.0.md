@@ -5,7 +5,7 @@
 
 引言(Introduction)
 ------------------
-
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 ### 1.1 欢迎
 
 参考视频: 1 - 1 - Welcome (7 min).mkv
