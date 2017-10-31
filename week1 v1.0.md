@@ -5,9 +5,9 @@
 
 引言(Introduction)
 ------------------
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-### 1.1 欢迎
 
+### 1.1 欢迎
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\left(&space;{{x}^{\left(&space;i&space;\right)}},{{y}^{\left(&space;i&space;\right)}}&space;\right)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\left(&space;{{x}^{\left(&space;i&space;\right)}},{{y}^{\left(&space;i&space;\right)}}&space;\right)" title="$\left( {{x}^{\left( i \right)}},{{y}^{\left( i \right)}} \right)" /></a>
 参考视频: 1 - 1 - Welcome (7 min).mkv
 
 第一个视频主要讲了什么是机器学习，机器学习能做些什么事情。
